@@ -1,5 +1,14 @@
 # 01 HTML CSS Git: Code Refactor
+---
+---
+## Finished site details
 
+Here is the finished site from this challenge - https://rajoouddin.github.io/module-1-challenge/.
+
+The below information describes what I was tasked with and the criteria I had to meet in order to submit my work.
+
+---
+---
 ## Your Task
  
 **Note**: Be sure to review the [Challenge Guide](./Challenge-Guide.md) and the [Good README Guide](./Good-README-Guide.md) before you start working on this assignment!
