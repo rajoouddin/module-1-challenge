@@ -3,7 +3,7 @@
 ---
 ## Finished site details
 
-Here is the finished site from this challenge - [Rajoo-Uddin-Module-1-Challenge](https://rajoouddin.github.io/module-1-challenge/){:target="_blank"}
+Here is the finished site from this challenge - [Rajoo-Uddin-Module-1-Challenge](https://rajoouddin.github.io/module-1-challenge/)
 
 The below information describes what I was tasked with and the criteria I had to meet in order to submit my work.
 
