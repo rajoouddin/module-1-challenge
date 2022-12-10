@@ -3,7 +3,7 @@
 ---
 ## Finished site details
 
-Here is the finished site from this challenge - https://rajoouddin.github.io/module-1-challenge/.
+Here is the finished site from this challenge - <a href="https://rajoouddin.github.io/module-1-challenge/" target="_blank">Rajoo-Uddin-Module-1-Challenge</a>.
 
 The below information describes what I was tasked with and the criteria I had to meet in order to submit my work.
 
@@ -11,7 +11,7 @@ The below information describes what I was tasked with and the criteria I had to
 ---
 ## Your Task
  
-**Note**: Be sure to review the [Challenge Guide](./Challenge-Guide.md) and the [Good README Guide](./Good-README-Guide.md) before you start working on this assignment!
+**Note**: Be sure to review the [Challenge Guide](/starter/Challenge-Guide.md) and the [Good README Guide](/starter//Good-README-Guide.md) before you start working on this assignment!
 
 This week your challenge is an on-the-job ticket, which means you'll begin with starter code that you need to modify. This week's challenge involves a very important aspect of web development: **accessibility**. 
  
